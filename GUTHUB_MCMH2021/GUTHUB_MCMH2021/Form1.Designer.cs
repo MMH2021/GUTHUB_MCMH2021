@@ -34,8 +34,9 @@ namespace GUTHUB_MCMH2021
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.aluNombre = new System.Windows.Forms.TextBox();
-            this.aluNota = new System.Windows.Forms.TextBox();
             this.listaAlumnos = new System.Windows.Forms.TextBox();
+            this.aluNota = new System.Windows.Forms.NumericUpDown();
+            ((System.ComponentModel.ISupportInitialize)(this.aluNota)).BeginInit();
             this.SuspendLayout();
             // 
             // button1
@@ -82,13 +83,6 @@ namespace GUTHUB_MCMH2021
             this.aluNombre.Size = new System.Drawing.Size(100, 22);
             this.aluNombre.TabIndex = 4;
             // 
-            // aluNota
-            // 
-            this.aluNota.Location = new System.Drawing.Point(32, 141);
-            this.aluNota.Name = "aluNota";
-            this.aluNota.Size = new System.Drawing.Size(100, 22);
-            this.aluNota.TabIndex = 5;
-            // 
             // listaAlumnos
             // 
             this.listaAlumnos.Location = new System.Drawing.Point(304, 53);
@@ -98,13 +92,20 @@ namespace GUTHUB_MCMH2021
             this.listaAlumnos.Size = new System.Drawing.Size(202, 133);
             this.listaAlumnos.TabIndex = 6;
             // 
+            // aluNota
+            // 
+            this.aluNota.Location = new System.Drawing.Point(32, 141);
+            this.aluNota.Name = "aluNota";
+            this.aluNota.Size = new System.Drawing.Size(120, 22);
+            this.aluNota.TabIndex = 7;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(582, 380);
-            this.Controls.Add(this.listaAlumnos);
             this.Controls.Add(this.aluNota);
+            this.Controls.Add(this.listaAlumnos);
             this.Controls.Add(this.aluNombre);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
@@ -112,6 +113,7 @@ namespace GUTHUB_MCMH2021
             this.Controls.Add(this.button1);
             this.Name = "Form1";
             this.Text = "Form1";
+            ((System.ComponentModel.ISupportInitialize)(this.aluNota)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -124,8 +126,8 @@ namespace GUTHUB_MCMH2021
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.TextBox aluNombre;
-        private System.Windows.Forms.TextBox aluNota;
         private System.Windows.Forms.TextBox listaAlumnos;
+        private System.Windows.Forms.NumericUpDown aluNota;
     }
 }
 
