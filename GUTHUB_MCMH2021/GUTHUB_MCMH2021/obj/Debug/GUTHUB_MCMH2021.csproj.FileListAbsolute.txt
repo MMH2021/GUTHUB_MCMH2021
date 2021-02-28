@@ -1,0 +1,10 @@
+C:\Users\mameh\source\repos\ghub final\GUTHUB_MCMH2021\GUTHUB_MCMH2021\obj\Debug\GUTHUB_MCMH2021.csprojAssemblyReference.cache
+C:\Users\mameh\source\repos\ghub final\GUTHUB_MCMH2021\GUTHUB_MCMH2021\obj\Debug\GUTHUB_MCMH2021.Form1.resources
+C:\Users\mameh\source\repos\ghub final\GUTHUB_MCMH2021\GUTHUB_MCMH2021\obj\Debug\GUTHUB_MCMH2021.Properties.Resources.resources
+C:\Users\mameh\source\repos\ghub final\GUTHUB_MCMH2021\GUTHUB_MCMH2021\obj\Debug\GUTHUB_MCMH2021.csproj.GenerateResource.cache
+C:\Users\mameh\source\repos\ghub final\GUTHUB_MCMH2021\GUTHUB_MCMH2021\obj\Debug\GUTHUB_MCMH2021.csproj.CoreCompileInputs.cache
+C:\Users\mameh\source\repos\ghub final\GUTHUB_MCMH2021\GUTHUB_MCMH2021\bin\Debug\GUTHUB_MCMH2021.exe.config
+C:\Users\mameh\source\repos\ghub final\GUTHUB_MCMH2021\GUTHUB_MCMH2021\bin\Debug\GUTHUB_MCMH2021.exe
+C:\Users\mameh\source\repos\ghub final\GUTHUB_MCMH2021\GUTHUB_MCMH2021\bin\Debug\GUTHUB_MCMH2021.pdb
+C:\Users\mameh\source\repos\ghub final\GUTHUB_MCMH2021\GUTHUB_MCMH2021\obj\Debug\GUTHUB_MCMH2021.exe
+C:\Users\mameh\source\repos\ghub final\GUTHUB_MCMH2021\GUTHUB_MCMH2021\obj\Debug\GUTHUB_MCMH2021.pdb
